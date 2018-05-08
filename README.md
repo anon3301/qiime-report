@@ -29,16 +29,26 @@ Main analyses of the OTU table performed by Qiime1, including alpha diversity, b
 Filtering the original OTU table to leave only the essential OTUs found across the highest number of samples.
 
 
+# CoreMicro_HeatMap
+
+Create heatmap of all OTUs against all samples, intense colour signifies higher relative abundance.
+
 # Performing core diversity analyses on the essential OTUs: CoreDiv_CoreMicro.py
 
 Core diversity analyses but now on the OTU table produced by Core_microbiome.py
 
-# Statistical analysis of correlation between OTU and composition and soil characteristics between samples on the full set of OTUs: Compare_categories_Full_set_Temp.py
+# Compare_categories_Full_set_Temp.py
+
+Statistical analysis of correlation between OTU and composition and soil characteristics between samples on the full set of OTUs
 
 
-# Statistical analysis of correlation between OTU and composition and soil characteristics between samples on the essential OTUs: Compare_categories_CoreMicro Temp.py
+# Compare_categories_CoreMicro Temp.py
+
+Statistical analysis of correlation between OTU and composition and soil characteristics between samples on the essential OTUs
 
 
-# Statistical analysis of correlation between individual OTUs and soil characteristics, performed on the essential OTU table: Group_significance.py
+# Group_significance.py
+
+Statistical analysis of correlation between individual OTUs and soil characteristics, performed on the essential OTU table
 
 
