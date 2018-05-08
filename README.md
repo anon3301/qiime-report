@@ -53,3 +53,6 @@ Statistical analysis of correlation between individual OTUs and soil characteris
 Performed for K, N, P, pH, and team.
 
 
+
+Other scripts that were drafted but unused can be found in the "Unused" branch of this repository
+
