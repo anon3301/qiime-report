@@ -40,7 +40,7 @@ Core diversity analyses but now on the OTU table produced by Core_microbiome.py
 # Compare_categories_Full_set_Temp.py
 
 Statistical analysis of correlation between OTU and composition and soil characteristics between samples on the full set of OTUs
-
+Performed for K, N, P and pH
 
 # Compare_categories_CoreMicro Temp.py
 
@@ -50,5 +50,6 @@ Statistical analysis of correlation between OTU and composition and soil charact
 # Group_significance.py
 
 Statistical analysis of correlation between individual OTUs and soil characteristics, performed on the essential OTU table
+Performed for K, N, P, pH, and team.
 
 
