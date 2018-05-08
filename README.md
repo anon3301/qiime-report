@@ -3,7 +3,7 @@
 
 # Joining Reads: joined_paired_ends.pbs
 
-Pair together forward abd reverse reads from raw sequencing data
+Pair together forward and reverse reads from raw sequencing data
 
 
 # Split libraries: split_libraries.pbs	
